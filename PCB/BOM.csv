@@ -1,0 +1,18 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U2,U5,U4,U3";"SOT-23-6";4;"USBLC6-2SC6";;;
+2;"J4,J3,J1,J2";"USB_C_Receptacle_GCT_USB4110";4;"USB_C_Receptacle_USB2.0_16P";;;
+3;"R4,R6,R2,R3,R7,R5";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";6;"56k";;;
+4;"C12,C7,C8,C11";"CP_Radial_D4.0mm_P1.50mm";4;"10uF";;;
+5;"C5,C6,C1,C4,C3,C2";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";6;"10uF";;;
+6;"U1";"SSOP-28_5.3x10.2mm_P0.65mm";1;"PCM2902";;;
+7;"R1,R10,R11";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";3;"10k";;;
+8;"C9,C10";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";2;"10pF";;;
+9;"R17";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";1;"1.5k";;;
+10;"J5";"Jack_3.5mm_PJ320D_Horizontal";1;"AudioJack4";;;
+11;"R8,R9";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";2;"5.1k";;;
+12;"R16";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";1;"2.2";;;
+13;"R13,R15,R14";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";3;"22";;;
+14;"C15,C13,C14";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";3;"1uF";;;
+15;"SW1";"SW_PUSH_6mm_H7.3mm";1;"Mute_button";;;
+16;"IC1";"STC_SOP-16_3.9x9.9mm_P1.27mm";1;"SL2.1A";;;
+17;"Y2,Y1";"Crystal_HC49-4H_Vertical";2;"12MHz";;;
