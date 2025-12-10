@@ -2,16 +2,21 @@
 
 A simple USB hub with 3 USB C outupts and a built in DAC for a 3.5mm audio output. It uses a SL2.1a USB hub controller and a PCM2902 DAC. 
 
-FULL RENDER
+<img width="300" alt="USB Hub DAC PCB" src="https://github.com/user-attachments/assets/8f43eb14-09bb-46c3-a596-bbaf94097c08" />
 
 ## PCB
 The PCB is designed to be mounted into the case using four M2x6mm screws into the four printed standoffs that use heat set inserts. The mute button is mounted on the top of the PCB and the case has a bulit in flexing tab that is used as a push button.
 
-RENDER OF PCB
+<img width="300" alt="usb-hub-dac pcb" src="https://github.com/user-attachments/assets/f5ecf870-a5ea-4690-a518-87bc4827ba6c" />
 
-PCB LAYOUT
 
-SCHEMATIC
+Layout
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/e107ba1a-4294-4f3e-9b9e-7bb35874dde2" />
+
+Schematic
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/8b67b6f4-2d3e-4252-a612-6c1bf82170ce" />
 
 ## Parts
 
