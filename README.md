@@ -39,3 +39,5 @@ Schematic
 | 10pF 0805 Capacitors                    | 2        | C41361255 | $0.0045      | $0.45 (100 MOQ)  | [Link](https://www.lcsc.com/product-detail/C41361255.html) |
 | 6mm Push Button                         | 1        | C42416249 | $0.0196      | $0.39 (20 MOQ)   | [Link](https://www.lcsc.com/product-detail/C42416249.html) |
 | 12 MHz Crystal                          | 2        | C16369    | $0.0834      | $0.42 (5 MOQ)    | [Link](https://www.lcsc.com/product-detail/C16369.html)    |
+
+Total cost: ~$26.80 + PCB (~$2)
