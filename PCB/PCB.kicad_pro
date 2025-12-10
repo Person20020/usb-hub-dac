@@ -534,7 +534,7 @@
       "plot": "gerbers",
       "pos_files": "test",
       "specctra_dsn": "",
-      "step": "PCB.step",
+      "step": "Detailed PCB.step",
       "svg": "",
       "vrml": ""
     },
