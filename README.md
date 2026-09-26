@@ -5,10 +5,16 @@
 
 A simple USB hub with 3 USB C outputs and a built in DAC for a 3.5mm audio output. It uses a SL2.1a USB hub controller and a PCM2902 DAC. 
 
+<img width="300" alt="PXL_20260926_223934899" src="https://github.com/user-attachments/assets/06d68dbd-d6bd-4887-b084-075f397af5bd" />
+<img width="300" alt="PXL_20260926_223541052" src="https://github.com/user-attachments/assets/8a351c07-f4fd-48cb-8291-ae714f0ccb1e" />
+<img width="300" alt="PXL_20260926_223615273" src="https://github.com/user-attachments/assets/3d1c81dd-34e2-49f4-9817-aa10be6396b1" />
+<img width="300" alt="PXL_20260926_223722004" src="https://github.com/user-attachments/assets/abaaf9f8-964e-4fb0-8302-f52c7a3a819f" />
+
+
 <img width="300" alt="USB Hub DAC PCB" src="https://github.com/user-attachments/assets/8f43eb14-09bb-46c3-a596-bbaf94097c08" />
 
 ## PCB
-The PCB is designed to be mounted into the case using four M2x6mm screws into the four printed standoffs that use heat set inserts. The mute button is mounted on the top of the PCB and the case has a bulit in flexing tab that is used as a push button.
+The PCB is designed to be mounted into the case using four M2x6mm screws into the four printed standoffs that use heat set inserts. The mute button is mounted on the top of the PCB and the case has a built in flexing tab that is used as a push button.
 
 <img width="300" alt="usb-hub-dac pcb" src="https://github.com/user-attachments/assets/f5ecf870-a5ea-4690-a518-87bc4827ba6c" />
 
