@@ -1,6 +1,9 @@
 # USB Hub / DAC
 
-A simple USB hub with 3 USB C outupts and a built in DAC for a 3.5mm audio output. It uses a SL2.1a USB hub controller and a PCM2902 DAC. 
+> [!NOTE]
+> The design has a 22 ohm resistor across the DAC's crystal (I have no clue why I did that) but it should be 1M. It also worked fine just taking the 22 ohm resistor off and leaving it empty.
+
+A simple USB hub with 3 USB C outputs and a built in DAC for a 3.5mm audio output. It uses a SL2.1a USB hub controller and a PCM2902 DAC. 
 
 <img width="300" alt="USB Hub DAC PCB" src="https://github.com/user-attachments/assets/8f43eb14-09bb-46c3-a596-bbaf94097c08" />
 
@@ -40,4 +43,4 @@ Schematic
 | 6mm Push Button                         | 1        | C42416249 | $0.0196      | $0.39 (20 MOQ)   | [Link](https://www.lcsc.com/product-detail/C42416249.html) |
 | 12 MHz Crystal                          | 2        | C16369    | $0.0834      | $0.42 (5 MOQ)    | [Link](https://www.lcsc.com/product-detail/C16369.html)    |
 
-Total cost: ~$26.80 + PCB (~$2)
+Total cost: \~$26.80 + PCB (\~$2)
